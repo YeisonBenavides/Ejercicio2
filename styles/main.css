@@ -1,0 +1,109 @@
+@import url('https://fonts.googleapis.com/css?family=Roboto');
+*{
+  margin: 0;
+  padding: 0;
+}
+
+/*PAGINA DE INICIO*/
+main{
+  background-color: green;
+  width: 650px;
+  height: 700px;
+  margin: auto;
+  padding-top: 30px;
+  padding-left: 70px;
+  padding-bottom: 30px;
+}
+
+/*PARATE DE ARRIBA*/
+main>article {
+  width: 180px;
+  height: 180px;
+  background-color: blue;
+  display: inline-block;
+  margin: 10px 5px ; 
+}
+main>article>section{
+  width: 180px;
+  height: 180px;
+  background-color: white;
+  display: inline-block;
+  border-radius: 50%;
+  margin: auto;
+}
+
+/*PARTE DEL MEDIO*/
+main>section{
+  width: 220px;
+  height: 220px;
+  background-color:blue;
+  display: inline-block;
+  margin: 10px 25px ; 
+}
+main>section>section{
+  width: 220px;
+  height: 220px;
+  background-color: white;
+  display: inline-block;
+  border-radius: 50%;
+  margin:auto; 
+}
+
+/*PARTE DE ABAJO*/
+main>div{
+  background-color: blue;
+  width: 505px;
+  height: 265px;
+  display: inline-block;
+  margin: 10px 5px ;
+  padding-left: 10px;  
+}
+main>div>article{
+  width: 130px;
+  height: 245px;
+  background-color: white;
+  display: inline-block;
+  margin: 10px 15px ; 
+}
+main>div>article>aside{
+  width: 70px;
+  height: 70px;
+  background-color: blue;
+  margin: 8px 25px ;
+}
+main>div>article>nav{
+  width: 70px;
+  height: 220px;
+  background-color: blue;
+  margin: 15px 30px ;
+  border-radius: 45%;
+}
+main>div>article>footer{
+  width: 70px;
+  height: 70px;
+  background-color: blue;
+  margin: 8px 25px ;
+  border-radius: 50%;
+}
+
+
+nav{
+  background-color: #FF1744;
+  text-align: center;
+}
+nav ul li {
+  display: inline-block;
+  list-style: none;
+}
+nav ul li a{
+  display: inline-block;
+  padding: 15px 20px;
+  text-decoration: none;
+  color: white;
+  font-family: 'Roboto', sans-serif;
+  font-size: 22px;
+}
+.active{
+  background-color: blueviolet;
+}
+
