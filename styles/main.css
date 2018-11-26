@@ -549,7 +549,450 @@ footer>la>ja>de{
 }
 
 /*QUINTA PAGINA*/
-.pagina5{
+
+/*PARTE IZQUIERDA SUPERIOR*/
+.pagina5>g{
+  width: 200px;
+  height: 600px;
+  background-color: bisque;
+  display: inline-block;
+  margin-top: 2px;
+  margin-left: 1px;
+  vertical-align: top;
+}
+.pagina5>g>qa{
+  width: 80px;
+  height: 110px;
+  background-color: black;
+  display: inline-block;
+  margin-top: 20px;
+  margin-left: 20px;
+  vertical-align: top;
+}
+.pagina5>g>qar{
+  width: 65px;
+  height: 110px;
+  background-color: black;
+  display: inline-block;
+  margin-top: 20px;
+  margin-left: 10px;
+  vertical-align: top;
+}
+.pagina5>g>qa>w{
+  width: 45px;
+  height: 45px;
+  background-color: yellow;
+  display: inline-block;
+  margin-top:5px;
+  margin-left: 16px;
+  border-radius:50%; 
+}
+.pagina5>g>qar>e{
+  width: 45px;
+  height: 100px;
+  background-color: yellow;
+  display: inline-block;
+  margin-top:5px;
+  margin-left: 10px;
+  border-radius:45%; 
+}
+.pagina5>g>r{
+  width: 160px;
+  height: 90px;
+  background-color: black;
+  display: inline-block;
+  margin-top: 5px;
+  margin-left: 20px;
+  vertical-align: top;
+}
+.pagina5>g>r>r{
+  width: 70px;
+  height: 70px;
+  background-color: yellow;
+  display: inline-block;
+  margin-top: 10px;
+  margin-left: 5px;
+  border-radius:50%; 
+}
+.pagina5>g>t{
+  width: 65px;
+  height: 110px;
+  background-color: black;
+  display: inline-block;
+  margin-top:10px;
+  margin-left: 20px;
+  vertical-align: top;
+}
+.pagina5>g>t>t{
+  width: 45px;
+  height: 45px;
+  background-color: yellow;
+  display: inline-block;
+  margin-top:5px;
+  margin-left: 10px;
+  border-radius:50%;
+}
+.pagina5>g>tu{
+  width: 80px;
+  height: 110px;
+  background-color: black;
+  display: inline-block;
+  margin-top:10px;
+  margin-left: 10px;
+  vertical-align: top;
+}
+.pagina5>g>tu>tu{
+  width: 45px;
+  height: 45px;
+  background-color: yellow;
+  display: inline-block;
+  margin-top:5px;
+  margin-left: 17px;
+  border-radius:50%;
+}
+.pagina5>g>y{
+  width: 160px;
+  height: 220px;
+  background-color: black;
+  display: inline-block;
+  margin-top:10px;
+  margin-left: 20px;
+  vertical-align: top;
+}
+.pagina5>g>y>y{
+  width: 70px;
+  height: 70px;
+  background-color: yellow;
+  display: inline-block;
+  margin-top:15px;
+  margin-left: 7px;
+  border-radius:50%;
+}
+.pagina5>g>y>yu{
+  width: 65px;
+  height: 40px;
+  background-color: yellow;
+  display: inline-block;
+  margin-top: 7px;
+  margin-left: 48px;
+  vertical-align: top;
+}
+.pagina5>g>y>ya{
+  width: 125px;
+  height: 50px;
+  background-color: yellow;
+  display: inline-block;
+  margin-top: 10px;
+  margin-left: 20px;
+  vertical-align: top;
+}
+
+/*PARTE SUPERIOR DEL MEDIO*/
+.pagina5>g>ye{
+  width: 165px;
+  height: 175px;
+  background-color: black;
+  display: inline-block;
+  margin-top:20px;
+  margin-left: 20px;
+  vertical-align: top;
+}
+.pagina5>g>ye>y{
+  width: 60px;
+  height: 60px;
+  background-color: yellow;
+  display: inline-block;
+  margin-top:10px;
+  margin-left: 16px;
+  border-radius:50%;
+}
+.pagina5>g>ye>yi{
+  width: 30px;
+  height: 35px;
+  background-color: yellow;
+  display: inline-block;
+  margin-top: 2px;
+  margin-left: 70px;
+  vertical-align: top;
+}
+.pagina5>g>ye>ya{
+  width: 125px;
+  height: 40px;
+  background-color: yellow;
+  display: inline-block;
+  margin-top: 10px;
+  margin-left: 23px;
+  vertical-align: top;
+}
+.pagina5>g>ta{
+  width: 73px;
+  height: 130px;
+  background-color: black;
+  display: inline-block;
+  margin-top:10px;
+  margin-left: 18px;
+  vertical-align: top;
+}.pagina5>g>ta>te{
+  width: 50px;
+  height: 50px;
+  background-color: yellow;
+  display: inline-block;
+  margin-top:7px;
+  margin-left: 10px;
+  border-radius:50%;
+}
+.pagina5>g>ra{
+  width: 169px;
+  height: 90px;
+  background-color: black;
+  display: inline-block;
+  margin-top: 5px;
+  margin-left: 18px;
+  vertical-align: top;
+}
+.pagina5>g>ra>ra{
+  width: 70px;
+  height: 70px;
+  background-color: yellow;
+  display: inline-block;
+  margin-top: 10px;
+  margin-left: 10px;
+  border-radius:50%; 
+}
+.pagina5>g>te{
+  width: 73px;
+  height: 125px;
+  background-color: black;
+  display: inline-block;
+  margin-top:20px;
+  margin-left: 18px;
+  vertical-align: top;
+}
+.pagina5>g>te>te{
+  width: 50px;
+  height: 100px;
+  background-color: yellow;
+  display: inline-block;
+  margin-top: 12px;
+  margin-left: 12px;
+  border-radius:50%; 
+}
+
+/*PARTE SUPERIOR DERECHO*/
+.pagina5>g>u{
+  width: 73px;
+  height: 70px;
+  background-color: black;
+  display: inline-block;
+  margin-top:20px;
+  margin-left: 25px;
+  vertical-align: top;
+}
+.pagina5>g>u>u{
+  width: 50px;
+  height: 50px;
+  background-color: yellow;
+  display: inline-block;
+  margin-top: 10px;
+  margin-left: 12px;
+  border-radius:50%; 
+}
+.pagina5>g>uq{
+  width: 50px;
+  height: 70px;
+  background-color: black;
+  display: inline-block;
+  margin-top:20px;
+  margin-left: 18px;
+  vertical-align: top;
+}
+.pagina5>g>uq>uq{
+  width: 30px;
+  height: 50px;
+  background-color: yellow;
+  display: inline-block;
+  margin-top: 10px;
+  margin-left: 10px;
+  border-radius:50%; 
+}
+.pagina5>g>uw{
+  width: 145px;
+  height: 95px;
+  background-color: black;
+  display: inline-block;
+  margin-top:20px;
+  margin-left: 25px;
+  vertical-align: top;
+}
+.pagina5>g>uw>uw{
+  width: 35px;
+  height: 35px;
+  background-color: yellow;
+  display: inline-block;
+  margin-top: 8px;
+  margin-left: 25px;
+  border-radius:50%;
+}
+.pagina5>g>ue{
+  width: 145px;
+  height: 115px;
+  background-color: black;
+  display: inline-block;
+  margin-top:20px;
+  margin-left: 25px;
+  vertical-align: top;
+}
+.pagina5>g>ue>ue{
+  width: 95px;
+  height: 50px;
+  background-color: yellow;
+  display: inline-block;
+  margin-top: 8px;
+  margin-left: 25px;
+}
+.pagina5>g>ue>ue>ue{
+  width: 80px;
+  height: 40px;
+  background-color: black;
+  display: inline-block;
+  margin-top:5px;
+  margin-left: 8px;
+  vertical-align: top;
+  border-radius:50%; 
+}
+.pagina5>g>ue>ur{
+  width: 40px;
+  height: 40px;
+  background-color: yellow;
+  display: inline-block;
+  margin-top: 8px;
+  margin-left: 50px;
+  border-radius:50%;
+}
+.pagina5>g>ut{
+  width: 73px;
+  height: 225px;
+  background-color: black;
+  display: inline-block;
+  margin-top:10px;
+  margin-left: 25px;
+  vertical-align: top;
+}
+.pagina5>g>ut>ut{
+  width: 55px;
+  height: 55px;
+  background-color: yellow;
+  display: inline-block;
+  margin-top: 12px;
+  margin-left: 8px;
+  border-radius:50%;
+}
+.pagina5>g>uy{
+  width: 55px;
+  height: 225px;
+  background-color: black;
+  display: inline-block;
+  margin-top:10px;
+  margin-left: 13px;
+  vertical-align: top;
+}
+
+
+/*PARTE INFERIOR*/
+.pagina5>h{
+  width: 610px;
+  height: 220px;
+  background-color: bisque;
+  display: inline-block;
+  margin-top: 15px;
+  margin-left: 1px;
+  vertical-align: top;
+}
+.pagina5>h>ye{
+  width: 150px;
+  height: 170px;
+  background-color: black;
+  display: inline-block;
+  margin-top:20px;
+  margin-left: 20px;
+  vertical-align: top;
+}
+.pagina5>h>ye>ye{
+  width: 60px;
+  height: 60px;
+  background-color: yellow;
+  display: inline-block;
+  margin-top: 12px;
+  margin-left: 10px;
+  border-radius:50%;
+}
+.pagina5>h>ye>yq{
+  width: 125px;
+  height: 50px;
+  background-color: yellow;
+  display: inline-block;
+  margin-top: 20px;
+  margin-left: 12px;
+  border-radius:50%;
+}
+.pagina5>h>yw{
+  width: 170px;
+  height: 170px;
+  background-color: black;
+  display: inline-block;
+  margin-top:20px;
+  margin-left: 10px;
+  vertical-align: top;
+}
+.pagina5>h>yw>yw{
+  width: 65px;
+  height: 65px;
+  background-color: yellow;
+  display: inline-block;
+  margin-top: 12px;
+  margin-left: 12px;
+  border-radius:50%;
+}
+.pagina5>h>yw>yr{
+  width: 130px;
+  height: 50px;
+  background-color: yellow;
+  display: inline-block;
+  margin-top: 20px;
+  margin-left: 15px;
+  border-radius:50%;
+}
+.pagina5>h>yt{
+  width: 215px;
+  height: 170px;
+  background-color: black;
+  display: inline-block;
+  margin-top:20px;
+  margin-left: 10px;
+  vertical-align: top; 
+}
+.pagina5>h>yt>yt{
+  width: 170px;
+  height: 110px;
+  background-color: yellow;
+  display: inline-block;
+  margin-top: 30px;
+  margin-left: 22px;
+  vertical-align: top;
+}
+.pagina5>h>yt>yt>yt{
+  width: 55px;
+  height: 55px;
+  background-color: black;
+  display: inline-block;
+  margin-top: 30px;
+  margin-left: 1px;
+  border-radius:50%;
+}
+
+
+/*SEXTA PAGINA*/
+.pagina6{
   background-color: #D6EC0B;
   width: 650px;
   height: 800px;
@@ -557,4 +1000,187 @@ footer>la>ja>de{
   padding-top: 30px;
   padding-left: 50px;
   padding-bottom: 50px;
+  padding-right: 50px;
+}
+.pagina6>article {
+  width: 126px;
+  height: 133px;
+  background-color: #00FF95;
+  display: inline-block;
+  margin: 10px 5px ;
+  padding-left: 8px;
+  padding-right: 8px;
+  vertical-align: top;
+}
+.pagina6>article>div {
+  width: 49px;
+  height: 44px;
+  background-color: blue;
+  margin: 17px 7px ;
+  border-radius:50%;
+  display:inline-block;
+}
+.pagina6>article>section {
+  width: 38px;
+  height: 39px;
+  background-color: #D40924;
+  display: inline-block;
+  border: 2px solid blue;
+}
+.pagina6>nav {
+  width: 321px;
+  height: 133px;
+  background-color: #00FF95;
+  display: inline-block;
+  margin: 10px 5px ; 
+}
+.pagina6>nav>main {
+  width: 20px;
+  height: 20px;
+  background-color: #D40924;
+  display: inline-block;
+  margin: 26px 5px ;
+}
+.pagina6>nav>main>aside {
+  width: 50px;
+  height: 50px;
+  background-color: blue;
+  margin: -14px -48px ;
+  border-radius:50%;
+}
+.pagina6>.cc {
+  width: 126px;
+  height: 250px;
+  background-color: #00FF95;
+  display: inline-block;
+  margin: 10px 5px 
+}
+.pagina6>.cc>.ccc {
+  width: 106px;
+  height: 230px;
+  background-color: red;
+  display: inline-block;
+  margin: 10px 9px 
+}
+.pagina6>.cc>.ccc>.circulo {
+  width: 70px;
+  height: 70px;
+  background-color: blue;
+  margin: 30px 17px ;
+  border-radius:50%;
+}
+.pagina6>.cc>.xccc {
+  width: 106px;
+  height: 78px;
+  background-color: red;
+  display: inline-block;
+  margin: 10px 9px 
+}
+.pagina6>.cc>.xccc>.xcirculo {
+  width: 60px;
+  height: 60px;
+  background-color: blue;
+  margin: 9px 23px ;
+  border-radius:50%;
+}
+.pagina6>.cc>.xxccc {
+  width: 106px;
+  height: 138px;
+  background-color: red;
+  display: inline-block;
+  margin: 0px 9px 
+}
+.pagina6>.cc>.xxccc>.xxcirculo {
+  width: 55px;
+  height: 55px;
+  background-color: blue;
+  margin: 10px 25px ;
+  border-radius:50%;
+}
+.pagina6>.xcc {
+  width: 157px;
+  height: 250px;
+  background-color: #00FF95;
+  display: inline-block;
+  margin: 10px 5px 
+}
+.pagina6>.xcc>.gcirculo {
+  width: 155px;
+  height: 155px;
+  background-color: blue;
+  margin: 43px 1px ;
+  border-radius:50%;
+}
+.pagina6>.xxcc {
+  width: 119px;
+  height: 250px;
+  background-color: #00FF95;
+  display: inline-block;
+  margin: 10px 5px 
+}
+.pagina6>.xxcc>.doscirculos {
+  width: 75px;
+  height: 75px;
+  background-color: blue;
+  margin: 13px 21px ;
+  border-radius:50%;
+}
+.pagina6>.xxcc>.ovalo {
+  width: 113px;
+  height: 51px;
+  background-color: blue;
+  margin: 13px 3px ;
+  border-radius:50%;
+}
+.pagina6>.grande {
+  width: 618px;
+  height: 390px;
+  background-color: #00FF95;
+  display: inline-block;
+  margin: 10px 5px 
+}
+.pagina6>.grande>.cuadros {
+  width: 117px;
+  height: 124px;
+  background-color: yellow;
+  display: inline-block;
+  margin: 40px 6px;
+  padding-left: 20px;
+}
+.pagina6>.grande>.cuadros>.bola {
+  width: 50px;
+  height: 50px;
+  background-color: blue;
+  margin: 17px 20px ;
+  border-radius:50%;
+}
+.pagina6>.grande>.cuadros>.cuadritos {
+  width: 30px;
+  height: 30px;
+  background-color: #D40924;
+  display: inline-block;
+  border: 2px solid blue;
+  margin: -3px
+}
+.pagina6>.grande>.rectangulos {
+  width: 291px;
+  height: 166px;
+  background-color: yellow;
+  display: inline-block;
+  margin: -10px 6px;
+}
+.pagina6>.grande>.rectangulos>.xrectangulos {
+  width: 259px;
+  height: 136px;
+  background-color: red;
+  display: inline-block;
+  margin: 15px 14px;
+}
+.pagina6>.grande>.rectangulos>.xrectangulos>.pepas {
+  width: 70px;
+  height: 70px;
+  background-color: blue;
+  margin: 34px 3px ;
+  display: inline-block;
+  border-radius:50%
 }
